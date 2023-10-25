@@ -1,5 +1,6 @@
 {
   "name": "react-github-pages",
+  "homepage": "https://alishstrong.github.io/react-github-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
